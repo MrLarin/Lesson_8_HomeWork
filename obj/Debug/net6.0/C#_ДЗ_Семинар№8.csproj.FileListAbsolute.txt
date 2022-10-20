@@ -1,0 +1,15 @@
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/bin/Debug/net6.0/C#_ДЗ_Семинар№8
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/bin/Debug/net6.0/C#_ДЗ_Семинар№8.deps.json
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/bin/Debug/net6.0/C#_ДЗ_Семинар№8.runtimeconfig.json
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/bin/Debug/net6.0/C#_ДЗ_Семинар№8.dll
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/bin/Debug/net6.0/C#_ДЗ_Семинар№8.pdb
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.csproj.AssemblyReference.cache
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.AssemblyInfoInputs.cache
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.AssemblyInfo.cs
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.csproj.CoreCompileInputs.cache
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.dll
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/refint/C#_ДЗ_Семинар№8.dll
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.pdb
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/C#_ДЗ_Семинар№8.genruntimeconfig.cache
+/Users/denislarin/Documents/Програмирование/Язык Программирования C#/C#_ДЗ_Семинар№8/obj/Debug/net6.0/ref/C#_ДЗ_Семинар№8.dll
